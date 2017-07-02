@@ -35,6 +35,10 @@ NNabla & Jupyter Notebook implementation of ...
 1. Denoising VAE [[notebook](https://github.com/TakuyaNakazato0227/nnabla_generative_models/blob/master/VAE/Denoising_Variatinoal_AutoEncoder.ipynb)] [[paper](https://arxiv.org/abs/1511.06406)] (2015.11)
 1. Adversarial Variational Bayes [[notebook](https://github.com/TakuyaNakazato0227/nnabla_generative_models/blob/master/VAE/Adversarial_Variational_Bayes.ipynb)] [[paper](https://arxiv.org/abs/1701.04722)] (2017.01)
 
+### [VAE-GANs](https://github.com/TakuyaNakazato0227/nnabla_generative_models/tree/master/VAE-GAN)
+
+1. α-GAN [[notebook](https://github.com/TakuyaNakazato0227/nnabla_generative_models/blob/master/VAE-GAN/Alpha_GAN.ipynb)] [[paper](https://arxiv.org/abs/1706.04987)] (2017.06)
+
 ## Dependencies
 
 * jupyter == '1.0.0'
